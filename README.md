@@ -10,4 +10,5 @@ Run in terminal: Python manamge.py runserver 0.0.0.0:8000
 
 
 # User interface:
+<img width="1645" alt="Screen Shot 2022-11-30 at 11 17 05 PM" src="https://user-images.githubusercontent.com/60582494/206341708-42900d42-ee1e-4226-a190-fe7105536be9.png">
 
