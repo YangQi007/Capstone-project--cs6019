@@ -6,7 +6,7 @@ This project is inspired by social media "Twitter", I try to rebuild back-end of
 
 # How to use my application
 Git clone my project<br />
-Run in terminal: Python manamge.py runserver 0.0.0.0:8000
+Run in terminal: Python manage.py runserver 0.0.0.0:8000
 
 
 # User interface:
